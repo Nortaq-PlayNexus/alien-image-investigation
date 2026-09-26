@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 extract_aaro_text.py - reproduce the primary-source text extraction used in this review.
 

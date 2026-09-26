@@ -1,4 +1,4 @@
-﻿# LIPF CLAIM CHART — the cross-check nobody has run
+# LIPF CLAIM CHART — the cross-check nobody has run
 ## US Navy patent 11,359,892 B2 vs. the UAP case corpus
 Prepared: window 3. Source: patents.google.com/patent/US11359892B2 (primary),
 David Hambling, Forbes, 11 May 2020 (secondary). Patent text quoted verbatim from the claims.

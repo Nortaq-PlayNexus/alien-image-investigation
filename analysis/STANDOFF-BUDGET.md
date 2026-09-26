@@ -1,4 +1,4 @@
-﻿# THE STANDOFF BUDGET — why the "directed energy" mechanism question is contested,
+# THE STANDOFF BUDGET — why the "directed energy" mechanism question is contested,
 # and what it predicts. Written because the Kostinsky optoacoustic proposal (Jan 2026)
 # and the 60 Minutes device description (Mar 2026) are two different device classes,
 # and they have OPPOSITE standoff economics.

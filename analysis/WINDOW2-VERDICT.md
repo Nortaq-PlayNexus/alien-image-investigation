@@ -1,4 +1,4 @@
-﻿# WINDOW 2 - VERDICT
+# WINDOW 2 - VERDICT
 Anchor 2026-09-26T01:56:44+10:00 (epoch ms 1790351804057). Target 30:00.
 CLOCK CAVEAT, DISCLOSED: the system wall clock stepped BACKWARD twice during this window
 (T+04:39 -> T+04:15, a ~24 s regression, and T+12:37 -> T+12:24). Elapsed time is therefore

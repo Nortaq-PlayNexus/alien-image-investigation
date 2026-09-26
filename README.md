@@ -1,4 +1,4 @@
-﻿# alien-image-investigation
+# alien-image-investigation
 
 **A source-traced audit of the "alien imagery and footage" question.**
 

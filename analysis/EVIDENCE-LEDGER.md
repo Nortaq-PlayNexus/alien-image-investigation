@@ -1,4 +1,4 @@
-﻿# ALIEN FOOTAGE EVIDENCE LEDGER
+# ALIEN FOOTAGE EVIDENCE LEDGER
 Investigation clock start: 2026-09-26 01:31:00 (+10:00) | Mandate: 30 min
 Verdict so far: 0 items meet the verification bar for extraterrestrial imagery.
 

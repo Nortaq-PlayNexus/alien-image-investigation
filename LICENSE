@@ -19,20 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-IMPORTANT — THIS LICENCE COVERS ONLY THE ORIGINAL ANALYSIS IN THIS REPOSITORY.
-
-It does NOT cover:
-
-  * `primary-sources/` — reproduced third-party and government documents.
-    The AARO Historical Record Report Volume 1 is a work of the United States
-    government and is in the public domain in the United States. See NOTICE.
-  * `corpus/` — 32 third-party documents retrieved during the investigation,
-    reproduced for research and verification with attribution.
-  * Any linked external material.
-
-If you reuse material from this repository, quote it and keep the citations.
-The value of this work is that the claims are traceable; that property only
-survives if attribution survives.

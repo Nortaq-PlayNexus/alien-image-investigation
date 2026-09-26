@@ -1,4 +1,4 @@
-﻿# WINDOW 2 - BIRDS-EYE HYPOTHESIS STRESS TEST
+# WINDOW 2 - BIRDS-EYE HYPOTHESIS STRESS TEST
 Window 2 anchor: 2026-09-26T01:56:44+10:00 (epoch ms 1790351804057). Target 30:00.
 
 ## H1 - 'The unexplained percentage is an intake artifact, not a measurement of the sky'
