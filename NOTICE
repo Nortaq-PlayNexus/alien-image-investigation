@@ -1,0 +1,55 @@
+# NOTICE — third-party and government material
+
+The MIT licence in `LICENSE` covers the original analysis, writing, charts, and
+poster in this repository. It does **not** cover the material described below.
+That material is reproduced here so that every claim in the analysis can be
+checked against the actual document rather than a description of it.
+
+---
+
+## `primary-sources/`
+
+### AARO Historical Record Report Volume 1 (2024)
+
+- **File:** `AARO_HRR_Vol1_2024.pdf` (896,464 bytes, 63 pages)
+- **SHA-256:** `6e9689dead22aa8be9fb1d22838767c127246db9ec6243c2450fe06b1437dce0`
+- **Publisher:** All-domain Anomaly Resolution Office (AARO), U.S. Department of Defense
+- **Status:** A work of the United States federal government. **Public domain in the
+  United States** under 17 U.S.C. §105. Not covered by the repository licence.
+- **Obtained from:** the Wikimedia Commons mirror, because `aaro.mil` returns HTTP 403
+  to non-browser clients. Wikimedia rate-limits at HTTP 429 and required a backoff.
+  Both are access mechanics, not restrictions on the document.
+- **Also included:** `AARO_HRR_Vol1.txt` — text extracted locally from that PDF with
+  `pymupdf`, not a separate source. SHA-256 `6998e8cf474a614fca93a92e3ac99f3…`
+
+## `corpus/`
+
+32 documents retrieved during the investigation, named by a tier tag and the first
+16 hex characters of their SHA-256 (e.g. `T1_25bb5a1a34ddc804.html`).
+
+- **Tier tags** reflect source quality as used in the analysis: `T1` = primary or
+  near-primary, `T3` = weaker / advocacy-adjacent / machine-generated. These tiers are
+  described in the analysis files.
+- **Provenance:** every file corresponds to a record in `custody/custody-log.jsonl`,
+  which gives the URL, retrieval timestamp, HTTP status, byte count, and full SHA-256.
+- **Status:** these are copies of third-party web pages, reproduced for research,
+  verification, and criticism under fair-use / research-purpose principles, with
+  attribution. **They remain the copyright of their original publishers and are not
+  covered by the repository licence.**
+- **Why included:** a review that cites a page you cannot open is not a review. These
+  files let anyone re-run the term sweeps and confirm or refute the quoted passages.
+
+## Quoting and reuse
+
+The documents above are quoted extensively and critically throughout `analysis/`. That
+is the purpose of their inclusion. If you reuse passages from them, credit the
+original publisher rather than this repository, and keep the document URLs from
+`custody/custody-log.jsonl`.
+
+## Accuracy note
+
+Transcripts and page captures can be imperfect. Where a source was a machine-generated
+transcript or an AI-generated page, that is disclosed in the analysis text, and the
+primary document was retrieved and read directly instead. The corrections log in
+`analysis/FINAL-REPORT.md` records every case where this investigation's own
+conclusions changed on contact with a primary source.

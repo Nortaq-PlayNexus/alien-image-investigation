@@ -1,0 +1,23 @@
+﻿# tooling / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local artefacts from the investigation tooling (not part of the published record)
+stopwatch*.ps1
+stopwatch*.html
+crawler-stdout.txt
+CRAWLER-DONE.flag
+prev*.png
+*_preview.png
+parts/
+*.tmp
